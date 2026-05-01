@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Input media (not tracked)
+input/
+
+# Generated output
+output/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor configurations
+.vscode/
+.idea/
