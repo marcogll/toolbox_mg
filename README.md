@@ -7,17 +7,15 @@
 </picture>
 </a>
 
+</div>
+
 # Toolbox Mg
 
-Python-based application for business operations ⚙️
+Caja de herramientas para operaciones técnicas 🧰
 
 <p>
-    <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
-
-  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
 </p>
-
-</div>
 
 ---
 
@@ -53,4 +51,5 @@ Cada herramienta tiene sus propias dependencias. Consulta los README individuale
 ## Uso
 
 Cada herramienta es independiente. Navega a la carpeta correspondiente y sigue las instrucciones en su README.
+
 
