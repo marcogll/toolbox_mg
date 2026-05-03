@@ -11,10 +11,14 @@
 
 # Toolbox Mg
 
-Caja de herramientas para operaciones técnicas 🧰
+Toolbox for technical operations 🧰
 
 <p>
-  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/english-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
 </p>
 
 ---
@@ -51,5 +55,6 @@ Cada herramienta tiene sus propias dependencias. Consulta los README individuale
 ## Uso
 
 Cada herramienta es independiente. Navega a la carpeta correspondiente y sigue las instrucciones en su README.
+
 
 
