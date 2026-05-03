@@ -1,19 +1,23 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://soul23.mx/logo/s23_logo_wh.png">
-    <img src="https://soul23.mx/logo/s23_logo_blk.png" alt="Soul23" width="110">
-  </picture>
+<div align="center">
+
+<img src="https://soul23.mx/logo/soul23_logo.svg" width="90" alt="Soul23">
+
+# Toolbox Mg
+
+Python-based application for business operations ⚙️
+
+<p>
+    <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
+
 </p>
+
+</div>
+
+---
 
 <h1 align="center">toolbox_mg.git</h1>
 
-<p align="center">
-  Colección de herramientas personales desarrolladas por Marco para diversos propósitos.
-</p>
 
-<p align="center">
-  [![Soul23](https://img.shields.io/badge/Soul23-000000?style=for-the-badge)](https://github.com/marcogll)
-</p>
 
 
 ## Herramientas
@@ -43,3 +47,4 @@ Cada herramienta tiene sus propias dependencias. Consulta los README individuale
 ## Uso
 
 Cada herramienta es independiente. Navega a la carpeta correspondiente y sigue las instrucciones en su README.
+
